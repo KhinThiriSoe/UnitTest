@@ -1,6 +1,6 @@
 package com.example.unittesting.example1
 
-import org.hamcrest.core.Is.`is`
+import org.hamcrest.CoreMatchers.`is`
 import org.junit.Assert
 import org.junit.Before
 import org.junit.Test
